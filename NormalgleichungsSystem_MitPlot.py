@@ -104,7 +104,6 @@ def fehlerFunktional(f, yy, xx, lamda):
         result += (yy[i] - f(lamda, xx[i])) ** 2
     return result
 
-
 [Q,R] = np.linalg.qr(A)
 lam = np.linalg.solve(R, Q.T @ g)
 print(lam)
