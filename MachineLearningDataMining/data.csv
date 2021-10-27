@@ -1,0 +1,21 @@
+id,Gender,Size (cm),Weight (kg),Hair Color,Blood Type,Glasses
+22,Female,175,65,red,A,yes
+23,Female,176,71,red,AB,yes
+24,Female,176,71,red,O,yes
+25,Female,179,69,black,B,yes
+26,Female,195,62,black,B,no
+27,Female,203,64,black,O,yes
+28,Female,160,70,brown,AB,no
+29,Female,172,62,brown,AB,no
+30,Female,166,52,brown,AB,no
+31,Female,182,67,brown,AB,no
+32,Female,168,70,brown,O,yes
+33,Female,168,59,blond,B,no
+34,Male,168,62,black,B,no
+35,Male,178,63,red,B,no
+36,Male,178,59,red,AB,no
+37,Male,172,67,brown,A,yes
+38,Male,172,58,brown,A,no
+39,Male,185,62,brown,A,no
+40,Male,190,75,black,B,yes
+41,Male,184,70,black,B,yes
